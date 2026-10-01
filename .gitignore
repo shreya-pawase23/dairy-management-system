@@ -1,0 +1,18 @@
+# Environment / secrets
+.env
+
+# Database backups
+*.sql
+*.sql.zip
+
+# XAMPP / temporary files
+*.log
+tmp/
+temp/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
